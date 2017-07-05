@@ -1,2 +1,2 @@
 # Coursechecker
-A java program that scrapes my universities course registration webpage and emails you if there is an opening.
+A java program that scrapes my universities course registration webpage and sends an email to you if there is an opening.
